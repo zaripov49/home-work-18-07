@@ -154,3 +154,4 @@ C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\WebApi\obj\Debug\net9.0\
 C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\WebApi\obj\Debug\net9.0\WebApi.pdb
 C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\WebApi\obj\Debug\net9.0\WebApi.genruntimeconfig.cache
 C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\WebApi\obj\Debug\net9.0\ref\WebApi.dll
+C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\WebApi\obj\Debug\net9.0\WebApi.sourcelink.json

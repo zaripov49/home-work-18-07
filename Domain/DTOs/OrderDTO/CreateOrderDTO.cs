@@ -9,5 +9,5 @@ public class CreateOrderDTO
     public DateTime CreatedAt { get; set; } = DateTime.Now;
     public string? CustomerName { get; set; }
     public DateTime DeliveryDeadline { get; set; }
-    public bool IsDiscountApplied1 { get; set; }
+    public bool IsDiscountApplied { get; set; }
 }

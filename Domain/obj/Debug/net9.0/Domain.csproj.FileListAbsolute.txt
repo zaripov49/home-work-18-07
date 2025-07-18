@@ -10,3 +10,4 @@ C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\Domain\obj\Debug\net9.0\
 C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\Domain\obj\Debug\net9.0\refint\Domain.dll
 C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\Domain\obj\Debug\net9.0\Domain.pdb
 C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\Domain\obj\Debug\net9.0\Domain.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\Infractructure\obj\Debug
 C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\Infractructure\obj\Debug\net9.0\refint\Infractructure.dll
 C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\Infractructure\obj\Debug\net9.0\Infractructure.pdb
 C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\Infractructure\obj\Debug\net9.0\ref\Infractructure.dll
+C:\Users\user\Desktop\C#\Month 7\Week 2\Home work 18-07\Infractructure\obj\Debug\net9.0\Infractructure.sourcelink.json
